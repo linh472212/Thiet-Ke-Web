@@ -1,0 +1,19 @@
+@font-face {
+    font-family:"Nunito Sans" ;
+    src: url(NunitoSans-VariableFont_YTLC\,opsz\,wdth\,wght.ttf)
+
+}
+p{
+    font-family: "Nunito Sans",sans-serif;
+    font-size: 90px;
+    letter-spacing: -11px;
+    text-align: center;
+}
+
+.blue { color: #4285f4; }
+
+    .red { color: #ea4335; }
+
+    .yellow { color: #fbbc05; }
+
+    .green { color: #34a853; }

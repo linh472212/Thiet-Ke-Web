@@ -1,0 +1,17 @@
+ul.navigation {
+    display: inline;
+}
+
+ul.navigation a {
+    display: block;
+}
+
+p {
+    text-align: center;
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    border: 1px solid chocolate;
+    box-shadow: 5px 10px 4px 8px yellowgreen,
+                5px 10px lemonchiffon;
+}

@@ -1,0 +1,22 @@
+h1 {
+
+    color: green;
+
+}
+
+p {
+    margin-left: 100px;
+    font-size: large;
+
+    font-family: sans-serif;
+
+}
+
+h2{
+    border-bottom:1px solid olive ;
+}
+
+img{
+    float:right;
+    margin: 0 12px;
+}

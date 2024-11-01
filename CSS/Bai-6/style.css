@@ -1,0 +1,14 @@
+body {
+    font-size: 40px;
+
+    font-family: Dongle, sans-serif;
+
+}
+
+@font-face {
+
+    font-family: acherusgrotesque;
+
+    src: url('fonts\Demo-Acherus Grotesque\Demo_Fonts\Fontspring-DEMO-acherusgrotesque-black.otf');
+
+}

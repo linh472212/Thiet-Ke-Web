@@ -1,0 +1,16 @@
+body {
+    background-image: url(https://tophinhanh.net/wp-content/uploads/2024/01/avatar-doi-vo-tri-cute-4.jpg);
+    background-position: left center, center center;
+    background-repeat: no-repeat, no-repeat;
+    background-attachment: fixed;
+}
+
+p {
+    background-image: url(dot.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 2em;
+    border: 2px dashed;
+    color: blue;
+}

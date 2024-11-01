@@ -1,0 +1,35 @@
+body {
+
+    width: 500px;
+
+    margin-left: 70px;
+
+    border: 1px solid red;
+
+}
+
+p#doan1 { text-indent: 2em; }
+
+p#doan2 { text-indent: 25%; }
+
+p#doan3 { text-indent: -35px; }
+a {
+
+    text-transform: uppercase;
+
+}
+
+a {
+
+    text-decoration: none;
+
+}
+ul {
+
+    list-style-image: url(/images/happy.gif);
+    
+    list-style-type: circle;
+    
+    list-style-position: outside;
+    
+    }

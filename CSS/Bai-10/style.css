@@ -1,0 +1,9 @@
+blockquote{
+    border: 4px dashed;
+    color: #508C19;
+    background-color: #B4BDE6;
+    background-clip: content-box;
+}
+body{
+    background-color: #FFFFFF;
+}
